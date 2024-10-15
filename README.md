@@ -8,4 +8,4 @@
 
 💼 Eager to embark on internships or projects that allow me to apply my knowledge and skills in real-world scenarios, while also learning from seasoned professionals in the field.
 
-🚀 Let's connect and explore opportunities to collaborate or discuss the ever-evolving landscape of Cyber Security!
+
