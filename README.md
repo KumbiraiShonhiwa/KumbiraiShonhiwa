@@ -1,6 +1,6 @@
 👨‍💻 Aspiring Computer Scientist | Passionate about Software Engineering, AI, Database Systems, and Cyber Security | Seeking Opportunities in Cyber Security Analysis
 
-🎓 Third-year Computer Science student with a keen interest in the intersection of technology and security. Currently pursuing a Bachelor's degree with a focus on honours studies, aiming to specialize in Software Engineering, AI, Database Systems, and Cyber Security.
+🎓 Final-year Computer Science student with a keen interest in the intersection of technology and security. Currently pursuing a Bachelor's degree with a focus on honours studies, aiming to specialize in Software Engineering, AI, Database Systems, and Cyber Security.
 
 🔒 Looking ahead, I envision myself contributing to the field of Cyber Security, with a particular focus on analysis and defense strategies. My academic journey has fueled my enthusiasm for securing digital infrastructures and data integrity.
 
