@@ -72,3 +72,7 @@ Compiler Project Overview This project is a compiler that processes input files 
 Phishing detection utilising Artificial Intelligence (AI) involves the use of Machine Learning (ML) and Deep Learning (DL) algorithms to automatically identify and categorise
 fraudulent emails. 
 
+### [Mini-Project: Twitter Clone](https://github.com/COS301-SE-2024/MiniProject13)
+MP-13 is a Twitter clone project aimed at replicating the functionality and user experience of the popular social media platform, Twitter
+
+
