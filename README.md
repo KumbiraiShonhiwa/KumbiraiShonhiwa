@@ -54,4 +54,21 @@
 </div>
 
 ## Projects
+###  [HarmonyHub](https://github.com/KumbiraiShonhiwa/HarmonyHub)
+
+
+### [WorkWise Central](https://github.com/COS301-SE-2024/WorkWise-Central)
+WorkWise Central is a service-management tool designed for service-based industries. It is engineered to streamline operations, maximize resource efficiency, and elevate customer experiences.
+
+
+### [Neural Language Models with Subword Embedding Techniques for Stylistic and Authorship Classification](https://github.com/KumbiraiShonhiwa/Neural-Language-Models-with-Subword-Embedding-Techniques-for-Stylistic-and-Authorship-Classification)
+This project explores the use of neural language models combined with subword embedding techniques to improve stylistic classification and authorship attribution. By leveraging state-of-the-art transformer models and advanced tokenization strategies.
+
+### [Compiler-Constrcution Project](https://github.com/KumbiraiShonhiwa/Compiler-project)
+
+Compiler Project Overview This project is a compiler that processes input files written in a specific programming language and generates BASIC code as output. The compiler performs lexing, parsing, semantic analysis, type checking, and code generation.
+
+### [AI- Phishing Email Detection System](https://github.com/KumbiraiShonhiwa/AI--Phishing-Email-Detection-System)
+Phishing detection utilising Artificial Intelligence (AI) involves the use of Machine Learning (ML) and Deep Learning (DL) algorithms to automatically identify and categorise
+fraudulent emails. 
 
