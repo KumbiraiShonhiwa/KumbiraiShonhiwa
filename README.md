@@ -1,6 +1,6 @@
 👨‍💻 Aspiring Computer Scientist | Passionate about Software Engineering, AI, Database Systems, and Cyber Security | Seeking Opportunities in Cyber Security Analysis
 
-🎓 Final-year Computer Science student with a keen interest in the intersection of technology and security. Currently pursuing a Bachelor's degree with a focus on honours studies, aiming to specialize in Software Engineering, AI, Database Systems, and Cyber Security.
+🎓 Final-year Computer Systems Engineering student with a keen interest in the intersection of technology and security. 
 
 🔒 Looking ahead, I envision myself contributing to the field of Cyber Security, with a particular focus on analysis and defense strategies. My academic journey has fueled my enthusiasm for securing digital infrastructures and data integrity.
 
@@ -54,8 +54,6 @@
 </div>
 
 ## Projects
-###  [HarmonyHub](https://github.com/KumbiraiShonhiwa/HarmonyHub)
-
 
 ### [WorkWise Central](https://github.com/COS301-SE-2024/WorkWise-Central)
 WorkWise Central is a service-management tool designed for service-based industries. It is engineered to streamline operations, maximize resource efficiency, and elevate customer experiences.
