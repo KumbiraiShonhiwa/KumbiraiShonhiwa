@@ -48,7 +48,7 @@
 
 ## Stats
 
-[![Kumbi's GitHub stats](https://github-readme-stats.vercel.app/api?kumbiraishonhiwa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Kumbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumbiraishonhiwa)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 
