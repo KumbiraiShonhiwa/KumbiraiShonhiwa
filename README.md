@@ -239,11 +239,11 @@ Data technologies and analytics project exploring modern data processing techniq
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="[https://github.com/KumbiraiShonhiwa](https://github.com/KumbiraiShonhiwa)">
+  <a href="https://github.com/KumbiraiShonhiwa">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="[https://www.linkedin.com/in/kumbirai-shonhiwa](https://www.linkedin.com/in/kumbirai-shonhiwa/)">
+  <a href="https://www.linkedin.com/in/kumbirai-shonhiwa">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
